@@ -1,6 +1,9 @@
 import streamlit as st
 from PIL import Image
 
+secret_value = st.secrets["my_secret_key"]
+st.write("Secret Value:1234", secret_value)
+
 hide_menu = """
 <style>
 #MainMenu{
