@@ -5,6 +5,8 @@ hide_menu = """
 <style>
 #MainMenu{
     visibility:hidden;
+    background-color: #1c1c1c;
+    color: #ffffff;
 }
 
 footer{
