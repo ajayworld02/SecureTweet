@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-dark_theme = """ 
+hide_menu = """ 
 <style>
 #MainMenu{
     visibility:hidden;
